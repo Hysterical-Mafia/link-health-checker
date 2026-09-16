@@ -55,23 +55,6 @@ Then open:
 ```text
 http://localhost:3000
 ```
-
-## Project Structure
-
-```text
-link-health-checker/
-├── services/
-│   └── linkChecker.js
-├── app.js
-├── index.html
-├── style.css
-├── server.js
-├── README.md
-├── screenshot.png
-├── package.json
-└── package-lock.json
-```
-
 ## Screenshot
 
 ![Link Health Checker dashboard](screenshot.png)
